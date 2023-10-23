@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: b9f73a69-06e7-4de2-9c7b-4f9855b56ba3
+      url: 'https://my-website24.netlify.app'
