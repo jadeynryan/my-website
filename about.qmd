@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Testing continuous deployment with Netlify!
 
 ```{r}
 1 + 1
