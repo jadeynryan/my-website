@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Testing continuous deployment with Netlify!
+Testing branch deploy with branch deploys set to all branches!
 
 ```{r}
 1 + 1

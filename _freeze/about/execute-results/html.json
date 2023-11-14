@@ -1,10 +1,8 @@
 {
-  "hash": "e92fdfd3f4ccfb15ae6c174f1c45b2a4",
+  "hash": "539fac542c9ec01dd0796e6f3b6ebdc8",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nTesting continuous deployment with Netlify!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [
-      "about_files"
-    ],
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nTesting branch deploy!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
