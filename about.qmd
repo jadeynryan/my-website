@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-Testing continuous deployment with Netlify!
-
-```{r}
-1 + 1
-```
+Testing Lighthouse audit!
