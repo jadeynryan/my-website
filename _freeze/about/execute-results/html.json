@@ -1,7 +1,7 @@
 {
-  "hash": "e92fdfd3f4ccfb15ae6c174f1c45b2a4",
+  "hash": "2b4cf21f895f0e23eaadac755b5f3230",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nTesting continuous deployment with Netlify!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nTesting Lighthouse with commit to main.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [
       "about_files"
     ],

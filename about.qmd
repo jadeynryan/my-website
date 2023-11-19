@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Testing continuous deployment with Netlify!
+Testing Lighthouse with commit to main.
 
 ```{r}
 1 + 1
